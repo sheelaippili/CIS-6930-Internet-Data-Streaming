@@ -1,0 +1,1 @@
+Number of successful lookups of set A of elements is: 510
