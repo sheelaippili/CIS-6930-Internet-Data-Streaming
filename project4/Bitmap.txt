@@ -1,0 +1,10 @@
+True Size:100 Estimated size: 100.5033585350145
+True Size:1000 Estimated size: 1000.413541802263
+True Size:10000 Estimated size: 10075.839903205459
+True Size:100000 Estimated size: Infinity
+True Size:1000000 Estimated size: Infinity
+True Size:100 Estimated size: 99.49330853668103
+True Size:1000 Estimated size: 992.6800165866902
+True Size:10000 Estimated size: 9969.586349416099
+True Size:100000 Estimated size: Infinity
+True Size:1000000 Estimated size: Infinity

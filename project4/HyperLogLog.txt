@@ -1,0 +1,8 @@
+True Size:1000 Estimated size: 998.5386815675655
+True Size:10000 Estimated size: 11626.606633174202
+True Size:100000 Estimated size: 114734.67648352539
+True Size:1000000 Estimated size: 1077708.4570917967
+True Size:1000 Estimated size: 974.7519317164687
+True Size:10000 Estimated size: 11428.79428300424
+True Size:100000 Estimated size: 111392.41718102546
+True Size:1000000 Estimated size: 1108970.7281803126
